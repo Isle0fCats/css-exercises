@@ -1,0 +1,22 @@
+/* style.css */
+.oddElements {
+    background-color: #ffa7a7;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+.thirdElement, #anotherID {
+    font-size: 24px;
+}
+
+#oneID {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+    font-family: 'DejaVu Sans';
+}
+
+#anotherID {
+    background-color: #80ff80;
+    font-family: sans-serif;
+    font-weight: bold;
+}
